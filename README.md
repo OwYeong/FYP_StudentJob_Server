@@ -20,22 +20,19 @@ Please Extract all rar File in the SourceCode folder using WinRar
 
 
 Step 1: Importing Database Into The Project
-Note: Before Doing These Step, Please Make Sure You Do Not Have A Sql Database Named (WebEngineeringAssignment).
-      if Yes, Please remove the database by using the commands(DROP DATABASE WebEngineeringAssignment;)
+Note: Before Doing These Step, Please Make Sure You Do Not Have A Sql Database Named (FYP_StudentJob).
+      if Yes, Please remove the database by using the commands(DROP DATABASE FYP_StudentJob;)
 	
 
   i  ) Open The Xampp Control Panel, And Start The MySQL Server.  
-    
-  ii ) Navigate to the following path :    
-       SourceCode(Folder) -> FYP_StudentJob_MySQLDatabase(Folder)  
          
-  iii) Double Click on the fypStudentJobDatabase.txt(Recommended Open Using Notepad)  
+  ii) Double Click on the fypStudentJobDatabase.txt(Recommended Open Using Notepad)  
     
-  iv ) Copy all the content in the notepad.(Shortcut: Select all(Ctrl+A) Then Copy(Ctrl+C))  
+  iii ) Copy all the content in the notepad.(Shortcut: Select all(Ctrl+A) Then Copy(Ctrl+C))  
     
-  v  ) inside the FYP_StudentJob_MySQLDatabase(Folder), double click on the mysql.bat ,This will open a commandPrompt.  
+  iv  ) double click on the mysql.bat ,This will open a commandPrompt.  
     
-  vi ) Finally Paste the content into it.(Shortcut: Paste(Ctrl + V)).  
+  v ) Finally Paste the content into it.(Shortcut: Paste(Ctrl + V)).  
     
       
 
